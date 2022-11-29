@@ -46,8 +46,8 @@
 `Пришлите скриншот рабочей конфигурации`
 
 
-`При необходимости прикрепитe сюда скриншоты
-![Bacula](https://i.imgur.com/HdnnyCC.png)`
+`При необходимости прикрепитe сюда скриншоты`
+![Bacula](https://github.com/Fameq/10.4-hw/blob/main/img/image1.png)
 
 
 ---
