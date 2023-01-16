@@ -25,8 +25,6 @@
 
 `Пришлите скриншот рабочей конфигурации`
 
-
-`При необходимости прикрепитe сюда скриншоты`
 ![Bacula](https://github.com/Fameq/10.4-hw/blob/main/img/task1.png)
 
 
@@ -37,6 +35,9 @@
 Установите программное обеспечении Rsync. Настройте синхронизацию на двух нодах. Протестируйте работу сервиса.
 
 *Пришлите рабочую конфигурацию сервера и клиента Rsync.*
+
+![Bacula](https://github.com/Fameq/10.4-hw/blob/main/img/task3_1.png)
+![Bacula](https://github.com/Fameq/10.4-hw/blob/main/img/task3_2.png)
 
 ---
 
